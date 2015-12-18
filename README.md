@@ -17,13 +17,13 @@ Project Repository:	GITHub
 POINT OF CONTACT
 For issues or questions related to document content, document control, location or access, please notify the contact(s) below: 
 Name	Org/Group	Role	Phone
-Vrunda Vanjare	TCS	Developer	9819718463
-Sreejith Gopinath	TCS	Developer	9986012416
-Rinu Abraham	TCS	Developer	8008305927
-Vishwakarma Ashwani	TCS	Developer 	7760400227
-Ravi Kumar	TCS	Developer 	9986828763
-Ashish Dubey	TCS	Developer 	9930322125
-Chennoju Shantikumar	TCS	Developer 	9550409559
+Vrunda Vanjare	TCS	Developer	
+Sreejith Gopinath	TCS	Developer	
+Rinu Abraham	TCS	Developer	
+Vishwakarma Ashwani	TCS	Developer 	
+Ravi Kumar	TCS	Developer 	
+Ashish Dubey	TCS	Developer 	
+Chennoju Shantikumar	TCS	Developer 	
 
 REVISION HISTORY
 Rev. #	Date	Sect./Page #	Revision Summary	Author
